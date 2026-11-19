@@ -1,4 +1,4 @@
-# Leelaprasad Vennu
+Yamini Vennu
 
 I build reproducible software for **agentic AI evaluation, coding-agent benchmarks, secure execution, and developer tooling**.
 
